@@ -1,8 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'SeuNome'
-description 'Script de Roupas e Acessórios'
+author 'Discord: kauelui'
+description 'Clothing and Accessories Guide'
 
 client_script 'client.lua'
 
